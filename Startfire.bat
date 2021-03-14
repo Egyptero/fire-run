@@ -30,7 +30,7 @@ cd ..
 ECHO *****************************************************************
 ECHO *                                                               *
 ECHO *                                                               *
-ECHO *                START CODING NOW                               *
+ECHO *                START TRYING FIREMISC                          *
 ECHO *                                                               *
 ECHO *                                                               *
 ECHO *                                                               *
